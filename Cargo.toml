@@ -1,6 +1,6 @@
 [package]
 name = "hola_mundo"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 description = "A binary crate to test an upload to crates.io"
 license = "MIT"
