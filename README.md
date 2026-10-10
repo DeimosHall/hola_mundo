@@ -32,5 +32,5 @@ cargo install hola_mundo
 To run the program just type hola_mundo as shown in the next image.
 
 <p align="center">
-	<img src="Screenshot.png">
+	<img src="https://raw.githubusercontent.com/DeimosHall/hola_mundo/refs/heads/main/Screenshot.png">
 </p>

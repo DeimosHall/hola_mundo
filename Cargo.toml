@@ -1,9 +1,12 @@
 [package]
 name = "hola_mundo"
-version = "0.1.1"
-edition = "2021"
+version = "0.1.2"
+edition = "2024"
 description = "A binary crate to test an upload to crates.io"
 license = "MIT"
+repository = "https://github.com/DeimosHall/hola_mundo"
+authors = ["Deimos Hall <deimoshall.dev@proton.me>"]
+readme = "README.md"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
